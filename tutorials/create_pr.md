@@ -15,7 +15,7 @@ Then you have to log in.
 After that you will be able to add new person to the collaborators. You should know the nick name of the person that you want to add to collaborators.
 ![5](src/create_pr/5.jpg)
 ![6](src/create_pr/6.jpg)
-Wait until this person accept your request, also you can ping him/her in some messenger :grin:.;NBSP 
+Wait until this person accept your request, also you can ping him/her in some messenger :grin:.
 ![7](src/create_pr/7.jpg)
 
 6. 
