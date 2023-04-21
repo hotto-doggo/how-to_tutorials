@@ -20,4 +20,8 @@ Wait until this person accept your request.
 Also you can ping him/her in some messenger :grin:.
 ![8](src/create_pr/8.jpg)
 
-6. 
+6. Hooray! Now you are able to add a reviewer to your PR :smiley:
+![9](src/create_pr/9.jpg)
+
+
+![To be continued](src/create_pr/to_be_continued.png)
