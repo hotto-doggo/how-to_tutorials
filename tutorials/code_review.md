@@ -17,5 +17,4 @@ So... You are a happy person that should review someone's code. Here are some st
 
 So you are done! You made great job!
 
-*The end?*
 ![To be continued](src/create_pr/to_be_continued.png)

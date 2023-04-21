@@ -24,6 +24,4 @@ Also you can ping him/her in some messenger :grin:
 7. Now wait for the review. Don't forget to ping responsible person  :grin:
 ![8](src/create_pr/8.jpg)
 
-
-*The end?*
 ![To be continued](src/create_pr/to_be_continued.png)
